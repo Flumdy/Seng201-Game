@@ -1,2 +1,0 @@
-ERROR - 17:50:28: java.io.FileNotFoundException: /seng201project/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties (No such file or directory)
-ERROR - 17:50:28: java.io.FileNotFoundException: /seng201project/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties (No such file or directory)
