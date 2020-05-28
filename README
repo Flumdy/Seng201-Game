@@ -1,0 +1,27 @@
+Trip In Space
+
+Authors: Finn McCartney and Michael Freeman
+
+The objective of Trip In Space is to collect the required spaceship pieces to repair your damaged ship so that you can make it home.
+The pieces can be found on the planets you will come across in your journey.
+
+- To begin the game you must select the amount of in-game days you would like to play for (between 3 and 10), the name of your ship, and the Name and class of the crew members you wish to have on your ship (between 2 and 4).
+
+- When the game begins you will be orbiting a planet with a nearby shop for buying any items you may need. Each crew member will have two actions that they may perform. Actions can only be recovered by moving on to the following day.
+
+- Possible actions include:
+1) Repairing your ship should it take damage.
+2) Searching the planet for any items of use or a space ship part.
+3) Going to the store (which will be updated with new items every day).
+4) Flying your ship to another planet (which requires two pilots with at least one action available each).
+5) Sleep to reduce tiredness levels.
+6) Move on to the next day.
+
+Certain actions can trigger events that may help or hurt your efforts. 
+
+- When the number of days selected at the start has been exceeded, all of your crew members die, or you manage to find all the spaceship parts and repair your ship, the game will end.
+
+- You will win if you find manage to repaire your ship with all the found parts and a final score will be displayed for you to try and beat should you play again.
+
+- You will lose if you run out of days to find all the spaceship pieces or all of your crew members die. A final score will be displayed for you again with the number of pieces you manage to recover.
+

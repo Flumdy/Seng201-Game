@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="/home/cosc/student/mjf145/Desktop/mjf145.fwm16.SpaceExplorer.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/seng201project/src/description.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=seng201project/src&lt;displays{StartScreen.java[StartScreen" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="true">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
+        <javaElement handleIdentifier="=seng201project/src"/>
+        <file path="/seng201project/.project"/>
+        <file path="/seng201project/README"/>
+        <file path="/seng201project/seng201project_20190525_175028.txt"/>
+        <folder path="/seng201project/javadocs"/>
+        <file path="/seng201project/.classpath"/>
+    </selectedElements>
+</jardesc>
